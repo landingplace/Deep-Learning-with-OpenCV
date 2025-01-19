@@ -32,9 +32,10 @@ streamlit run Image_classficiation_app.py
 
 Python package: 
 - streamlit
-- cv2
+- opencv-python-headless
+- opencv-python
 - numpy
-- PIL
+- pillow
 - requests
 
 Classification classes: classification_classes_animals.txt  #for animals, birds recognition
